@@ -1,0 +1,18 @@
+10:04:24.983 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+10:04:25.168 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+10:04:25.654 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+10:04:25.655 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+10:04:31.727 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+10:04:31.876 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+10:04:32.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+10:04:32.585 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+10:04:36.123 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+10:04:36.259 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount link...
+10:04:41.268 [main] INFO  testCases.TC_002_LoginTest - Clicking on login link...
+10:04:41.692 [main] INFO  testCases.TC_002_LoginTest - Clicked on login link under myAccount...
+10:04:41.697 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+10:04:47.305 [main] INFO  testCases.TC_002_LoginTest - clicked on login button
+10:04:47.801 [main] INFO  testCases.TC_002_LoginTest - Login test passed...
+10:04:47.801 [main] INFO  testCases.TC_002_LoginTest - ***** Finished TC_002_LoginTest ****
+10:04:50.955 [main] INFO  testCases.TC_004_SearchProductTest -  Starting TC_004_SearchProductTest 
+10:04:52.043 [main] INFO  testCases.TC_004_SearchProductTest -  Finished TC_004_SearchProductTest 

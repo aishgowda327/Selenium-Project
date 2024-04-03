@@ -1,0 +1,49 @@
+16:10:58.734 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+16:11:05.599 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:11:08.128 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+16:13:10.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+16:13:10.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+16:13:10.953 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+16:13:10.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+16:13:17.760 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+16:13:20.355 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+21:38:01.715 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+21:38:01.851 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+21:38:02.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+21:38:02.550 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+21:38:08.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+21:38:08.373 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+21:38:09.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+21:38:09.544 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+21:38:12.970 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+21:39:51.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+21:39:51.263 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+21:39:51.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+21:39:51.864 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+21:39:58.888 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:40:02.376 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+21:40:02.502 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount link...
+21:40:03.504 [main] INFO  testCases.TC_002_LoginTest - Clicking on login link...
+21:40:50.732 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+21:40:50.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+21:40:51.513 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+21:40:51.513 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+21:40:58.497 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+21:41:02.091 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+21:41:02.271 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount link...
+21:41:09.279 [main] INFO  testCases.TC_002_LoginTest - Clicking on login link...
+21:42:49.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+21:42:49.858 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+21:42:50.578 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+21:42:50.579 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+21:42:56.381 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+21:42:56.504 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+21:42:57.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+21:42:57.600 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+21:43:01.129 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+21:43:01.282 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount link...
+21:43:06.293 [main] INFO  testCases.TC_002_LoginTest - Clicking on login link...
+21:44:49.823 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+21:44:50.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+21:44:50.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+21:44:50.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****

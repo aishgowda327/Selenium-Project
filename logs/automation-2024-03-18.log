@@ -1,0 +1,47 @@
+15:32:37.849 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:32:45.003 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:32:50.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:32:50.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:32:51.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:32:51.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:32:58.830 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:33:40.203 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:33:40.363 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:33:40.877 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:33:40.877 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:33:47.706 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:33:53.390 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:33:53.533 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:33:54.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:33:54.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:33:59.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+15:33:59.815 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+15:34:01.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+15:34:01.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+15:34:22.479 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:34:22.644 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:34:23.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:34:23.249 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:34:29.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+15:34:29.193 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+15:34:30.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+15:34:30.311 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+15:34:35.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:34:35.811 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:34:36.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:34:36.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:34:42.724 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on privacy ******
+15:34:42.830 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on continue ******
+15:34:43.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** TC__001 finished ******
+15:34:43.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed.....
+15:36:21.078 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:36:21.395 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:36:22.189 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:36:22.190 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:36:22.763 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****
+15:36:22.883 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on MyAccount link ******
+15:36:23.575 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on registration link ******
+15:36:23.575 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering customer details *****
+15:36:29.101 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:36:30.676 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+15:42:05.836 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** starting Tc_001_AccountRegistrationtest.......*****

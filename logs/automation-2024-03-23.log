@@ -1,0 +1,58 @@
+13:46:04.392 [main] INFO  testCases.TC_003_LoginDDT - **** if conditions start*****
+13:46:04.692 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on valid logout *****
+13:46:04.698 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:46:04.709 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:46:05.099 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+13:46:05.285 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+13:46:05.431 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+13:46:05.477 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+13:46:15.508 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+13:46:15.508 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:46:15.519 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:46:16.680 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:46:17.156 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+13:46:17.328 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+13:46:17.475 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+13:46:17.517 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+13:46:27.540 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+13:46:27.540 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:46:27.550 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:51:33.511 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:51:34.331 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+13:51:34.575 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+13:51:34.799 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+13:51:34.892 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+13:51:35.539 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+13:51:35.539 [main] INFO  testCases.TC_003_LoginDDT - **** if conditions start*****
+13:51:35.970 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on valid logout *****
+13:51:35.976 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:51:35.990 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:51:36.407 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+13:51:36.568 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+13:51:36.713 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+13:51:36.760 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+13:51:46.847 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+13:51:46.847 [main] INFO  testCases.TC_003_LoginDDT - **** true *****
+13:51:46.847 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:51:46.855 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:51:48.068 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+13:51:48.785 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+13:51:49.034 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+13:51:49.201 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+13:51:49.271 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+13:51:59.319 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+13:51:59.321 [main] INFO  testCases.TC_003_LoginDDT - **** true *****
+13:51:59.321 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+13:51:59.327 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:27:49.747 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:27:50.261 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+15:27:50.438 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
+15:27:50.560 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd password *****
+15:27:50.591 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on login page login *****
+15:27:51.022 [main] INFO  testCases.TC_003_LoginDDT - **** validation *****
+15:27:51.022 [main] INFO  testCases.TC_003_LoginDDT - **** if conditions start*****
+15:27:51.308 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on valid logout *****
+15:27:51.310 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+15:27:51.316 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:27:51.624 [main] INFO  testCases.TC_003_LoginDDT - **** clicked on Home page login *****
+15:27:51.722 [main] INFO  testCases.TC_003_LoginDDT - **** Enterd email *****
